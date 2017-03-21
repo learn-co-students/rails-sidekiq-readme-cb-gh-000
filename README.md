@@ -150,5 +150,3 @@ background worker.
 **//Flat-fact:** Sidekiq isn't *officially* endorsed by Chuck Norris,
 but suffice it to say, long-running tasks would run and hide
 into a Sidekiq worker if Chuck showed up. Nobody blocks Chuck's threads.
-
-![chuck](http://i.giphy.com/SyzIHPW8oMdnW.gif)
